@@ -1,1 +1,8 @@
+{
+  "expo": {
+    "splash": {
+      "image": "./assets/splash.png"
+    },
     "userInterfaceStyle": "automatic"
+  }
+}
